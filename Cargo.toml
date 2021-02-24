@@ -1,0 +1,12 @@
+[package]
+name = "toronto_land_transfer_tax"
+version = "0.1.0"
+authors = ["Martin-Louis Bright <mlbright@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.38"
+rust_decimal = "1.10.2"
+rust_decimal_macros = "1.10.2"
